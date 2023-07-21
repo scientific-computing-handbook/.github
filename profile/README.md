@@ -1,4 +1,4 @@
-## Hi there 👋
+## The Scientific Computing Handbook
 
 Your definitive guide to implementing algorithms for scientific computing in C++, Python, and Julia
 
